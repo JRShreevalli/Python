@@ -8,3 +8,5 @@ def program(n):
 
 n = int(input())
 program(n)
+
+# In the Same manner do for cubes for n natural numbers
